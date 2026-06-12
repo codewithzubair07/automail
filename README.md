@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI Email Automation System (Flask + Groq + Gmail + Telegram)
 
 A fully Python-based, free AI email automation app.
