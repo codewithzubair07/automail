@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Email Automation System (Flask + Groq + Gmail + Telegram)
 
 A fully Python-based, free AI email automation app.
@@ -64,3 +65,6 @@ http://localhost:5000
 - `token.json` is created after Gmail OAuth and should not be committed.
 - `data.json` is auto-created on first run.
 - Monitoring thread runs as daemon and stops with app shutdown.
+=======
+# automail
+>>>>>>> ae61376243290dc7d5c929cc76cbd3cbce9c4736
